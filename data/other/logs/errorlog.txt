@@ -1,0 +1,33 @@
+[23-Nov-2019 21:33:54 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:33:54 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:33:54 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:33:54 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:33:54 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:33:54 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:33:54 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:33:54 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:50 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:50 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:50 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:50 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:50 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:50 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:50 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:50 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:50 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:50 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:50 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:53 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:53 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:53 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:53 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:53 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:53 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:53 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:53 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:53 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:53 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:35:53 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /var/www/html/GetSimpleCMS-3.3.15/admin/install.php on line 44
+[23-Nov-2019 21:36:58 Europe/Berlin] PHP Warning:  fopen(/var/www/html/GetSimpleCMS-3.3.15/.htaccess): failed to open stream: Permission denied in /var/www/html/GetSimpleCMS-3.3.15/admin/setup.php on line 125
+[23-Nov-2019 21:36:58 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /var/www/html/GetSimpleCMS-3.3.15/admin/setup.php on line 126
+[23-Nov-2019 21:36:58 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /var/www/html/GetSimpleCMS-3.3.15/admin/setup.php on line 127

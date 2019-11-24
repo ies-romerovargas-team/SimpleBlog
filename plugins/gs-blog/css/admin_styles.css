@@ -1,0 +1,61 @@
+img.rss_feed {
+	margin-left:14px;
+}
+.odd_meta {
+	float: left;
+	width: 48%;
+    height: 40px;
+}
+.even_meta {
+	float: right;
+	width: 48%;
+    height: 40px;
+}
+
+li#nav_gs-blog a:before {
+font-family: FontAwesome;
+content: "\f044";
+padding-right: 6px;
+}
+
+@media only screen and (max-width: 768px) and (min-width: 320px) {
+  li#nav_gs-blog a {
+    visibility: hidden;
+  }
+  li#nav_gs-blog a:before {
+    font-family: FontAwesome;
+    content: "\f044";
+    padding: 0;
+    visibility: visible;
+    font-size: 24px;
+    color:rgba(255,255,255,.75);
+  }
+}
+
+/* Pager - Pagination system for table elements */
+.pg-normal {
+  color: black;
+  font-weight: normal;
+  text-decoration: none;
+  background: #fefefe;
+  padding: 2px 5px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}
+.pg-normal:hover {
+  cursor: pointer;
+  background-color: #ffffd5;
+}
+.pg-selected {
+  color: black;
+  font-weight: bold; 
+  text-decoration: none; 
+  background: #ffffec;
+  border: 1px solid #ccc;
+  border-radius:2px;
+  cursor: pointer;
+  padding: 2px 5px;
+}
+td {
+  vertical-align:middle !important;
+}
