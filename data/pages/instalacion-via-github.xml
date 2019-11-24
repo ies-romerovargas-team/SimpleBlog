@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 24 Nov 2019 18:46:45 +0100</pubDate><title><![CDATA[Instalación vía Github]]></title><url><![CDATA[instalacion-via-github]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Instalación vía Github]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[### Pasos a seguir para descargar desde el repositorio ies-romerovargas/SimpleBlog
+
+Git clone: 
+
+`sudo git clone https://github.com/ies-romerovargas/SimpleBlog/ /var/www/html/david` 
+
+`cd /var/www/html/david/data`
+
+`sudo mkdir users` 
+
+`cd /var/www/html/david/data/users`
+
+`sudo nano root.xml `
+
+`
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;item&gt;
+    &lt;USR&gt;root&lt;/USR&gt;
+    &lt;NAME&gt;root&lt;/NAME&gt;
+    &lt;PWD&gt;7110eda4d09e062aa5e4a390b0a572ac0d2c0220&lt;/PWD&gt;
+    &lt;EMAIL&gt;root@info.org&lt;/EMAIL&gt;
+    &lt;HTMLEDITOR/&gt;
+    &lt;TIMEZONE&gt;Europe/Brussels&lt;/TIMEZONE&gt;
+    &lt;LANG&gt;en_EN&lt;/LANG&gt;
+&lt;/item&gt;
+`
+
+`sudo chmod -R 777 data/`
+
+`sudo chmod -R 777 backups/`
+
+http://david.com/admin/
+
+root
+1234]]></content><private><![CDATA[]]></private><author><![CDATA[daw1-24]]></author></item>
